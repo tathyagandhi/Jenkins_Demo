@@ -1,0 +1,198 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\AutoFrameworkTest.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\AutoFrameworkTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\AutoFrameworkTest.csproj",
+        "projectName": "AutoFrameworkTest",
+        "projectPath": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\AutoFrameworkTest.csproj",
+        "packagesPath": "C:\\Users\\pci151\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pci151\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFramework\\AutoFramework.csproj": {
+                "projectPath": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFramework\\AutoFramework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Common.Logging": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "Common.Logging.Core": {
+              "target": "Package",
+              "version": "[3.4.1, )"
+            },
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "DotNetSeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[3.11.0, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[2.41.0, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.4.9.5, )"
+            },
+            "IronXL.Excel": {
+              "target": "Package",
+              "version": "[2021.9.0, )"
+            },
+            "Microsoft.AspNet.Razor": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Portable.BouncyCastle": {
+              "target": "Package",
+              "version": "[1.8.3.37, )"
+            },
+            "RazorEngine": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[108.0.5359.7100, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[4.5.3, )"
+            },
+            "System.Runtime.InteropServices": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "System.Runtime.InteropServices.RuntimeInformation": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "System.Security.AccessControl": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Security.Principal.Windows": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13, )"
+            },
+            "itext7": {
+              "target": "Package",
+              "version": "[7.1.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFramework\\AutoFramework.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFramework\\AutoFramework.csproj",
+        "projectName": "AutoFramework",
+        "projectPath": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFramework\\AutoFramework.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

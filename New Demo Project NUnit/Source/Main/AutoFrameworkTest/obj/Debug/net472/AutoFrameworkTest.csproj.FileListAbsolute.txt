@@ -1,0 +1,182 @@
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\NUnit3.TestAdapter.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\NUnit3.TestAdapter.pdb
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\nunit.engine.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\nunit.engine.api.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\TestData\EmailConfig.csv
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\TestData\TestData1.csv
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\TestData\TestData2.csv
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFrameworkTest.dll.config
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFrameworkTest.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFrameworkTest.pdb
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Common.Logging.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Common.Logging.Core.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Dapper.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\SeleniumExtras.WaitHelpers.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\EntityFramework.SqlServer.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\EntityFramework.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\RelevantCodes.ExtentReports.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\HtmlAgilityPack.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\IronXL.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.barcodes.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.forms.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.io.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.kernel.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.layout.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.pdfa.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.sign.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.styledxmlparser.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.svg.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itextsharp.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Web.Razor.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\MongoDB.Bson.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\MongoDB.Driver.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\MongoDB.Driver.Core.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Newtonsoft.Json.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\nunit.framework.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\RazorEngine.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\WebDriver.Support.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\WebDriver.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Security.AccessControl.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Security.Permissions.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFramework.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFramework.pdb
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFramework.dll.config
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.AssemblyReference.cache
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.SuggestedBindingRedirects.cache
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.dll.config
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.AssemblyInfoInputs.cache
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.AssemblyInfo.cs
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.CoreCompileInputs.cache
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.CopyComplete
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.dll
+D:\Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.pdb
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\NUnit3.TestAdapter.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\NUnit3.TestAdapter.pdb
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\nunit.engine.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\nunit.engine.api.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\TestData\EmailConfig.csv
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\TestData\TestData1.csv
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\TestData\TestData2.csv
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFrameworkTest.dll.config
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFrameworkTest.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFrameworkTest.pdb
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Common.Logging.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Common.Logging.Core.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Dapper.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\SeleniumExtras.WaitHelpers.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\EntityFramework.SqlServer.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\EntityFramework.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\RelevantCodes.ExtentReports.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\HtmlAgilityPack.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\IronXL.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.barcodes.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.forms.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.io.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.kernel.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.layout.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.pdfa.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.sign.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.styledxmlparser.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.svg.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itextsharp.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Web.Razor.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\MongoDB.Bson.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\MongoDB.Driver.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\MongoDB.Driver.Core.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Newtonsoft.Json.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\nunit.framework.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\RazorEngine.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\WebDriver.Support.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\WebDriver.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Security.AccessControl.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Security.Permissions.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFramework.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFramework.pdb
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFramework.dll.config
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.AssemblyReference.cache
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.SuggestedBindingRedirects.cache
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.dll.config
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.AssemblyInfoInputs.cache
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.AssemblyInfo.cs
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.CoreCompileInputs.cache
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.CopyComplete
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.dll
+D:\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.pdb
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\NUnit3.TestAdapter.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\NUnit3.TestAdapter.pdb
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\nunit.engine.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\nunit.engine.api.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\TestData\EmailConfig.csv
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\TestData\ProjectName.csv
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\TestData\TestData2.csv
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFrameworkTest.dll.config
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFrameworkTest.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFrameworkTest.pdb
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Common.Logging.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Common.Logging.Core.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Dapper.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\SeleniumExtras.WaitHelpers.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\EntityFramework.SqlServer.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\EntityFramework.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\RelevantCodes.ExtentReports.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\HtmlAgilityPack.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\IronXL.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.barcodes.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.forms.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.io.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.kernel.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.layout.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.pdfa.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.sign.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.styledxmlparser.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itext.svg.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\itextsharp.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Web.Razor.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\MongoDB.Bson.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\MongoDB.Driver.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\MongoDB.Driver.Core.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Newtonsoft.Json.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\nunit.framework.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\BouncyCastle.Crypto.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\RazorEngine.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\WebDriver.Support.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\WebDriver.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Configuration.ConfigurationManager.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Security.AccessControl.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Security.Permissions.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Security.Principal.Windows.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFramework.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFramework.pdb
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\AutoFramework.dll.config
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.AssemblyReference.cache
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.SuggestedBindingRedirects.cache
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.dll.config
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.AssemblyInfoInputs.cache
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.AssemblyInfo.cs
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.CoreCompileInputs.cache
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.csproj.CopyComplete
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\obj\Debug\net472\AutoFrameworkTest.pdb
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\TestData\TestData3.csv
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\CsvHelper.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\Microsoft.Bcl.HashCode.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Buffers.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Memory.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\Projects\New Demo Project NUnit\Source\Main\AutoFrameworkTest\bin\Debug\net472\System.Threading.Tasks.Extensions.dll

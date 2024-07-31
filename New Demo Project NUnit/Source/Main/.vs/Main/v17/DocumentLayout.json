@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|d:\\projects\\new demo project nunit\\source\\main\\autoframeworktest\\pages\\harmonixfrontpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|solutionrelative:autoframeworktest\\pages\\harmonixfrontpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|d:\\projects\\new demo project nunit\\source\\main\\autoframeworktest\\autoframeworktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|solutionrelative:autoframeworktest\\autoframeworktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|d:\\projects\\new demo project nunit\\source\\main\\autoframeworktest\\pages\\harmonixloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|solutionrelative:autoframeworktest\\pages\\harmonixloginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|d:\\projects\\new demo project nunit\\source\\main\\autoframeworktest\\testdata\\testdata3.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|solutionrelative:autoframeworktest\\testdata\\testdata3.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|d:\\projects\\new demo project nunit\\source\\main\\autoframeworktest\\data\\objectmother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|solutionrelative:autoframeworktest\\data\\objectmother.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|d:\\projects\\new demo project nunit\\source\\main\\autoframeworktest\\data\\testdatarowtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|solutionrelative:autoframeworktest\\data\\testdatarowtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|d:\\projects\\new demo project nunit\\source\\main\\autoframeworktest\\data\\testdatarow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|solutionrelative:autoframeworktest\\data\\testdatarow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|d:\\projects\\new demo project nunit\\source\\main\\autoframeworktest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{065FC38D-38A0-4D86-BAA8-4CCFC000E38D}|AutoFrameworkTest\\AutoFrameworkTest.csproj|solutionrelative:autoframeworktest\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\TestData\\TestData1.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AutoFrameworkTest\\TestData\\TestData1.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoFrameworkTest.cs",
+              "DocumentMoniker": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\AutoFrameworkTest.cs",
+              "RelativeDocumentMoniker": "AutoFrameworkTest\\AutoFrameworkTest.cs",
+              "ToolTip": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\AutoFrameworkTest.cs",
+              "RelativeToolTip": "AutoFrameworkTest\\AutoFrameworkTest.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwv1EAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T04:06:57.415Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestDataRowTitle.cs",
+              "DocumentMoniker": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\Data\\TestDataRowTitle.cs",
+              "RelativeDocumentMoniker": "AutoFrameworkTest\\Data\\TestDataRowTitle.cs",
+              "ToolTip": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\Data\\TestDataRowTitle.cs",
+              "RelativeToolTip": "AutoFrameworkTest\\Data\\TestDataRowTitle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:57:32.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestData3.csv",
+              "DocumentMoniker": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\TestData\\TestData3.csv",
+              "RelativeDocumentMoniker": "AutoFrameworkTest\\TestData\\TestData3.csv",
+              "ToolTip": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\TestData\\TestData3.csv",
+              "RelativeToolTip": "AutoFrameworkTest\\TestData\\TestData3.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-18T10:16:32.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HarmonixFrontPage.cs",
+              "DocumentMoniker": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\Pages\\HarmonixFrontPage.cs",
+              "RelativeDocumentMoniker": "AutoFrameworkTest\\Pages\\HarmonixFrontPage.cs",
+              "ToolTip": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\Pages\\HarmonixFrontPage.cs",
+              "RelativeToolTip": "AutoFrameworkTest\\Pages\\HarmonixFrontPage.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAkwKgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T09:28:38.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObjectMother.cs",
+              "DocumentMoniker": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\Data\\ObjectMother.cs",
+              "RelativeDocumentMoniker": "AutoFrameworkTest\\Data\\ObjectMother.cs",
+              "ToolTip": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\Data\\ObjectMother.cs",
+              "RelativeToolTip": "AutoFrameworkTest\\Data\\ObjectMother.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwC8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T07:57:27.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HarmonixLogInPage.cs",
+              "DocumentMoniker": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\Pages\\HarmonixLogInPage.cs",
+              "RelativeDocumentMoniker": "AutoFrameworkTest\\Pages\\HarmonixLogInPage.cs",
+              "ToolTip": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\Pages\\HarmonixLogInPage.cs",
+              "RelativeToolTip": "AutoFrameworkTest\\Pages\\HarmonixLogInPage.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowD0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T09:30:41.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TestDataRow.cs",
+              "DocumentMoniker": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\Data\\TestDataRow.cs",
+              "RelativeDocumentMoniker": "AutoFrameworkTest\\Data\\TestDataRow.cs",
+              "ToolTip": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\Data\\TestDataRow.cs",
+              "RelativeToolTip": "AutoFrameworkTest\\Data\\TestDataRow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T08:16:35.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\App.config",
+              "RelativeDocumentMoniker": "AutoFrameworkTest\\App.config",
+              "ToolTip": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\App.config",
+              "RelativeToolTip": "AutoFrameworkTest\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-18T09:44:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestData1.csv",
+              "DocumentMoniker": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\TestData\\TestData1.csv",
+              "RelativeDocumentMoniker": "AutoFrameworkTest\\TestData\\TestData1.csv",
+              "ToolTip": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\TestData\\TestData1.csv",
+              "RelativeToolTip": "AutoFrameworkTest\\TestData\\TestData1.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-16T12:12:35.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

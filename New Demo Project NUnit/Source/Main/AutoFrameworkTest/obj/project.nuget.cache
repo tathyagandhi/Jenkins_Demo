@@ -1,0 +1,79 @@
+{
+  "version": 2,
+  "dgSpecHash": "zioblWFrIIY=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\New Demo Project NUnit\\Source\\Main\\AutoFrameworkTest\\AutoFrameworkTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pci151\\.nuget\\packages\\common.logging\\3.4.1\\common.logging.3.4.1.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\common.logging.core\\3.4.1\\common.logging.core.3.4.1.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\extentreports\\2.41.0\\extentreports.2.41.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\htmlagilitypack\\1.4.9.5\\htmlagilitypack.1.4.9.5.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\ironxl.excel\\2021.9.0\\ironxl.excel.2021.9.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\itext7\\7.1.4\\itext7.7.1.4.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\itextsharp\\5.5.13\\itextsharp.5.5.13.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\microsoft.aspnet.razor\\3.0.0\\microsoft.aspnet.razor.3.0.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\mongodb.bson\\2.4.0\\mongodb.bson.2.4.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\mongodb.driver\\2.4.0\\mongodb.driver.2.4.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\mongodb.driver.core\\2.4.0\\mongodb.driver.core.2.4.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\portable.bouncycastle\\1.8.3.37\\portable.bouncycastle.1.8.3.37.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\razorengine\\3.9.0\\razorengine.3.9.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\selenium.support\\3.14.0\\selenium.support.3.14.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\selenium.webdriver\\3.14.0\\selenium.webdriver.3.14.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\selenium.webdriver.chromedriver\\108.0.5359.7100\\selenium.webdriver.chromedriver.108.0.5359.7100.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.runtime.interopservices\\4.0.0\\system.runtime.interopservices.4.0.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.0.0\\system.runtime.interopservices.runtimeinformation.4.0.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\pci151\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MongoDB.Driver' 2.4.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-7j9m-j397-g4wx",
+      "libraryId": "MongoDB.Driver",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json' 9.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-5crp-9r3c-p9vr",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RazorEngine' 3.9.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-ph3v-2hq5-5qfq",
+      "libraryId": "RazorEngine",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2"
+      ]
+    }
+  ]
+}
